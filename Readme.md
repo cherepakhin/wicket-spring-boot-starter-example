@@ -6,7 +6,39 @@ $ echo $JAVA_HOME
 mvn spring-boot:run
 ````
 
-http://127.0.0.1:8081/custsomers?6&theme=Cerulean
+__Боле-мене темы:__
+Cerulean
+http://127.0.0.1:8081/custsomers?8&theme=Cerulean
+
+![Cosmo](wicket-spring-boot-starter-example/doc/themes/setected/selected_cerulean.png)
+
+Cosmo
+http://127.0.0.1:8081/custsomers?8&theme=Cosmo
+
+![Cosmo](wicket-spring-boot-starter-example/doc/themes/setected/setected_cosmo.png)
+
+Pulse
+http://127.0.0.1:8081/custsomers?22&theme=Pulse
+
+![Pulse](wicket-spring-boot-starter-example/doc/themes/setected/setected_pulse.png)
+
+Simplex
+http://127.0.0.1:8081/custsomers?26&theme=Simplex
+
+![Simplex](doc/themes/selected/selected_simplex.png)
+
+Spacelab
+http://127.0.0.1:8081/custsomers?26&theme=Spacelab
+![Spacelab](doc/themes/Spacelab.png)
+
+Suerhero (V)
+http://127.0.0.1:8081/custsomers?26&theme=Spacelab
+![Suerhero](doc/themes/selected/selected_suerhero.png)
+
+Yeti (V)
+http://127.0.0.1:8081/custsomers?26&theme=Yeti
+![Suerhero](doc/themes/selected/selected_yeti.png)
+
 
 Преднастроенные темы:
 
