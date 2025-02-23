@@ -10,17 +10,17 @@ __Боле-мене темы:__
 Cerulean
 http://127.0.0.1:8081/custsomers?8&theme=Cerulean
 
-![Cosmo](wicket-spring-boot-starter-example/doc/themes/setected/selected_cerulean.png)
+![Cosmo](doc/themes/setected/selected_cerulean.png)
 
 Cosmo
 http://127.0.0.1:8081/custsomers?8&theme=Cosmo
 
-![Cosmo](wicket-spring-boot-starter-example/doc/themes/setected/setected_cosmo.png)
+![Cosmo](doc/themes/setected/setected_cosmo.png)
 
 Pulse
 http://127.0.0.1:8081/custsomers?22&theme=Pulse
 
-![Pulse](wicket-spring-boot-starter-example/doc/themes/setected/setected_pulse.png)
+![Pulse](doc/themes/setected/setected_pulse.png)
 
 Simplex
 http://127.0.0.1:8081/custsomers?26&theme=Simplex
