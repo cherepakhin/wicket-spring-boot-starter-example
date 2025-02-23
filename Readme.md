@@ -15,12 +15,12 @@ http://127.0.0.1:8081/custsomers?8&theme=Cerulean
 Cosmo
 http://127.0.0.1:8081/custsomers?8&theme=Cosmo
 
-![Cosmo](doc/themes/setected/setected_cosmo.png)
+![Cosmo](doc/themes/setected/selected_cosmo.png)
 
 Pulse
 http://127.0.0.1:8081/custsomers?22&theme=Pulse
 
-![Pulse](doc/themes/setected/setected_pulse.png)
+![Pulse](doc/themes/setected/selected_pulse.png)
 
 Simplex
 http://127.0.0.1:8081/custsomers?26&theme=Simplex
