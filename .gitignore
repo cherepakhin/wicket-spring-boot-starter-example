@@ -1,0 +1,8 @@
+/target/
+/.settings/
+.classpath
+.project
+.springBeans
+/src/main/resources/public/docs/
+/.idea/
+.gigaide/
