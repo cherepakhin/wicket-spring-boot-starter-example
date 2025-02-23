@@ -17,7 +17,7 @@ public class WicketBootstrapInitializer implements WicketApplicationInitConfigur
     public void init(WebApplication webApplication) {
         var settings = new BootstrapSettings();
         Bootstrap.builder().withBootstrapSettings(settings).install(webApplication);
-        var themeProvider = new BootswatchThemeProvider(BootswatchTheme.Cerulean);
+        var themeProvider = new BootswatchThemeProvider(BootswatchTheme.Simplex);
 
         settings.setJsResourceFilterName("footer-container")
                 .setThemeProvider(themeProvider)
